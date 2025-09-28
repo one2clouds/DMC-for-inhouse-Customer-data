@@ -190,5 +190,4 @@ pointnet2_ops_lib/
 af/
 experiments/
 Results-pointr/
-data/data_npy/20240718_132105_ITERO(169622609)_0/
-data/data_npy/pdf_19c_20220627_094427_ITERO(99778548)/
+data/data_npy/
